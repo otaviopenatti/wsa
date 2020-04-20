@@ -1,7 +1,7 @@
 # Visual word spatial arrangement for image retrieval and classification
 ## Pattern Recognition journal, 2014
 
-
+![Glasses example](https://github.com/otaviopenatti/wsa/blob/src/glasses.png)
 
 This page contains additional material related to the paper "Visual word spatial arrangement for image retrieval and classification" published in the Pattern Recognition journal in 2014.
 
