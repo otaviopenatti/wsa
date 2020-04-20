@@ -2,7 +2,10 @@
 ## Pattern Recognition journal, 2014
 
 
+
 This page contains additional material related to the paper "Visual word spatial arrangement for image retrieval and classification" published in the Pattern Recognition journal in 2014.
+
+
 
 
 Paper:
