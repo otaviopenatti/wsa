@@ -6,7 +6,7 @@ This page contains additional material related to the paper "Visual word spatial
 
 
 Paper:
-- [Pre-print PDF]()
+- [Pre-print PDF](https://github.com/otaviopenatti/wsa/blob/src/penattiWSA2014PatternRecognition.pdf)
 - [Science Direct](http://www.sciencedirect.com/science/article/pii/S0031320313003336)
 - [Google Scholar](http://scholar.google.com.br/scholar?cluster=1046716811830566010&hl=en&as_sdt=0,5)
 
