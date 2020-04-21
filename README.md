@@ -19,8 +19,7 @@ This page contains additional material related to the paper "Visual word spatial
 - [Base600 dataset](http://www.recod.ic.unicamp.br/~otavio/eva/view_images_base600.php)
 
 
-### Please cite as:**
-
+### Please cite as:
 Visual word spatial arrangement for image retrieval and classification
 PENATTI, O. A. B. ; SILVA, F. B. ; VALLE, E. ; GOUET-BRUNET, V ; TORRES, R. da S.
 In: Pattern Recognition, volume 47, number 2, p. 705-720, 2014.
