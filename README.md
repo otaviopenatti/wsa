@@ -14,6 +14,10 @@ This page contains additional material related to the paper "Visual word spatial
 
 **Source code:** [WSA](https://github.com/otaviopenatti/wsa/blob/master/wsa.c)
 
+**Examples of image search with WSA:**
+- [Paris dataset](http://www.recod.ic.unicamp.br/~otavio/eva/view_images_paris.php)
+- [Base600 dataset](http://www.recod.ic.unicamp.br/~otavio/eva/view_images_base600.php)
+
 
 **Please cite as:**
 
