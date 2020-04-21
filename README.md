@@ -6,20 +6,20 @@
 This page contains additional material related to the paper "Visual word spatial arrangement for image retrieval and classification" published in the Pattern Recognition journal in 2014.
 
 
-**Paper:**
+### Paper:
 - [Pre-print PDF](https://github.com/otaviopenatti/wsa/blob/master/penattiWSA2014PatternRecognition.pdf)
 - [Science Direct](http://www.sciencedirect.com/science/article/pii/S0031320313003336)
 - [Google Scholar](http://scholar.google.com.br/scholar?cluster=1046716811830566010&hl=en&as_sdt=0,5)
 
+### Source code: [WSA](https://github.com/otaviopenatti/wsa/blob/master/wsa.c)  
 
-**Source code:** [WSA](https://github.com/otaviopenatti/wsa/blob/master/wsa.c)
 
-**Examples of image search with WSA:**
+### Examples of image search with WSA: 
 - [Paris dataset](http://www.recod.ic.unicamp.br/~otavio/eva/view_images_paris.php)
 - [Base600 dataset](http://www.recod.ic.unicamp.br/~otavio/eva/view_images_base600.php)
 
 
-**Please cite as:**
+### Please cite as:**
 
 Visual word spatial arrangement for image retrieval and classification
 PENATTI, O. A. B. ; SILVA, F. B. ; VALLE, E. ; GOUET-BRUNET, V ; TORRES, R. da S.
